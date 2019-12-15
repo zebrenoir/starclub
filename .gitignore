@@ -1,4 +1,7 @@
 .idea/
 env/
 */__pychache__/*
+starclub/__pycache__/
+stars/__pycache__/
+stars/migrations/__pycache__/
 
